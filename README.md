@@ -18,6 +18,8 @@ Os exemplos neste repositório abrangem uma variedade de tópicos, incluindo:
 - **Blank Identifier:** Aprenda sobre o uso do identificador em branco `_`.
 - **Comma Ok:** Compreenda o padrão "Comma Ok" para trabalhar com mapas e channels.
 - **Impressão de Tipos e Valores:** Utilize técnicas de impressão para depuração.
+- **Manipulação de JSON em Go:** A manipulação de JSON em Go é uma tarefa comum em aplicativos que interagem com serviços web, armazenam configurações em formato JSON e trocam dados estruturados.
+
 
 ## Uso
 
